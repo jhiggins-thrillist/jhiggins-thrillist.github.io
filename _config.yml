@@ -6,13 +6,13 @@ disqus_shortname: # disqus comment thread for post header options. ( leave blank
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
-links:
-  - name:         "About"
-    url:          "/about"
-    external:     true
-  - name:         GitHub
-    url:          http://github.com/jhiggins-thrillist
-    external:     true
+#links:
+#  - name:         "About"
+#    url:          "/about"
+#    external:     true
+#  - name:         GitHub
+#    url:          http://github.com/jhiggins-thrillist
+#    external:     true
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
